@@ -58,7 +58,7 @@ A modern, full-stack cloud file-sharing platform with OAuth authentication, real
 ### 1️⃣ Clone & Install
 
 ```bash
-git clone 
+git clone https://github.com/Pratham-Prog861/cloud-sharing-platform.git
 cd cloud-sharing-platform
 npm install
 ```
